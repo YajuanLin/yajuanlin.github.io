@@ -18,7 +18,7 @@ layout: page
 
 - Yiyang Weng (DKU undergrad student, class of 2023)
 
-<img src="https://sites.duke.edu/yajuanlin/files/2022/05/IMG_1835-scaled-e1652176046680.jpg" height="225"/>  
+<img src="https://sites.duke.edu/yajuanlin/files/2022/05/IMG_1835-scaled-e1652176046680.jpg" width="300"/>  
 
 - Yunyi Ru (DKU undergrad student, class of 2023) 
 

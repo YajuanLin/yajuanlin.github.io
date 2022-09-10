@@ -7,18 +7,18 @@ layout: page
 ## Principle investigator
 Yajuan Lin (Assistant Professor, Marine Ecology)
 
-<img src="https://drive.google.com/file/d/1b21hzPxsJD-wU2Am5CWSnBkWPgnL6m6Y/view?usp=sharing" width="300" height="225"/>
+<img src="https://sites.duke.edu/yajuanlin/files/2019/10/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpg" width="300" height="225"/>
 
 
 ## Current lab members
 
 - Merlin Miao (DKU undergrad student, class of 2023)
 
-<a href="assets/img/IMG_4980-scaled-e1631180639654.jpeg"><img class="alignnone size-medium wp-image-72" src="assets/img/IMG_4980-scaled-e1631180639654.jpeg" alt="" width="300" height="225" /></a> 
+<img src="https://sites.duke.edu/yajuanlin/files/2021/09/IMG_4980-scaled-e1631180639654.jpg" height="225"/> 
 
 - Yiyang Weng (DKU undergrad student, class of 2023)
 
-<a href="assets/img/IMG_1835-scaled-e1652176046680.jpeg"><img class="alignnone size-medium wp-image-72" src="assets/img/IMG_1835-scaled-e1652176046680.jpeg" alt="" width="300" height="225" /></a> 
+<img src="https://sites.duke.edu/yajuanlin/files/2022/05/IMG_1835-scaled-e1652176046680.jpg" height="225"/>  
 
 - Yunyi Ru (DKU undergrad student, class of 2023) 
 

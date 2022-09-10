@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "People", file: "people.md"}
   - {title: "Publications", file: "Publications.md"}
   - {title: "CV", file: "assets/img/YLin_CV_Aug2022.pdf"}
+  - {title: "Contact", file: "contact.md"}
 
 # external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}

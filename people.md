@@ -7,7 +7,8 @@ layout: page
 ## Principle investigator
 Yajuan Lin (Assistant Professor, Marine Ecology)
 
-<a href="https://github.com/YajuanLin/yajuanlin.github.io/blob/e6e81cc9c8714623099d5113d4cf72af058fd074/assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg"><img class="alignnone size-medium wp-image-72" src="https://github.com/YajuanLin/yajuanlin.github.io/blob/e6e81cc9c8714623099d5113d4cf72af058fd074/assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg" alt="" width="300" height="225" /></a> 
+<a href="assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg"><img class="alignnone size-medium wp-image-72" src="assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg" alt="" width="300" height="225" /></a>
+ 
 
 ## Current lab members
 

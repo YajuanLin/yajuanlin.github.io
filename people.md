@@ -7,7 +7,7 @@ layout: page
 ## Principle investigator
 Yajuan Lin (Assistant Professor, Marine Ecology)
 
-<img src="https://github.com/YajuanLin/yajuanlin.github.io/blob/79193a9a168e3adf52c22c7a587823fbf31a5fa8/assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg" width="300" height="225"/>
+<img src="https://sites.duke.edu/yajuanlin/files/2019/10/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpg" width="300" height="225"/>
 
 
 ## Current lab members

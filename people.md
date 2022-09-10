@@ -8,7 +8,8 @@ layout: page
 Yajuan Lin (Assistant Professor, Marine Ecology)
 
 <a href="/assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg"><img class="alignnone size-medium wp-image-72" src="assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg" alt="" width="300" height="225" /></a>
- 
+
+<a href="assets/img/100_3160.jpeg"><img class="alignnone size-medium wp-image-72" src="assets/img/100_3160.jpeg" alt="" width="300" height="225" /></a>
 
 ## Current lab members
 

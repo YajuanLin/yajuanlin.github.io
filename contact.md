@@ -1,6 +1,6 @@
 ---
-title: "People"
-permalink: "/people/"
+title: "Contact us"
+permalink: "/contact/"
 layout: page
 ---
 

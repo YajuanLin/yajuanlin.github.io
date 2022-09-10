@@ -6,7 +6,7 @@ layout: page
 
 ## Yajuan Lin (Assistant Professor, Marine Ecology)
 
-![photo](https://sites.duke.edu/yajuanlin/files/2019/10/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpg){: width="250px" } 
+![photo](https://sites.duke.edu/yajuanlin/files/2019/10/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpg){:width="250px"} 
 
 
 ## Former lab members

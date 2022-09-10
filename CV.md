@@ -1,6 +1,6 @@
 ---
 title: "Yajuan Lin CV"
-permalink: "/blob/98e0307fa8aa0a6e8dc9bd59018e8b007c724da1/YLin_CV_Aug2022.pdf"
+permalink: "/CV/"
 layout: page
 ---
 

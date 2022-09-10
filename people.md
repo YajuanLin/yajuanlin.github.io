@@ -9,8 +9,6 @@ Yajuan Lin (Assistant Professor, Marine Ecology)
 
 <a href="assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg"><img class="alignnone size-medium wp-image-72" src="assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg" alt="" width="300" height="225" /></a> 
 
-<img class="alignnone wp-image-58 size-medium" src="assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg" alt="" width="300" height="225" />
-
 ## Current lab members
 
 - Merlin Miao (DKU undergrad student, class of 2023)

@@ -12,9 +12,11 @@ Yajuan Lin (Assistant Professor, Marine Ecology)
 ## Current lab members
 
 - Merlin Miao (DKU undergrad student, class of 2023)
+
 <a href="assets/img/IMG_4980-scaled-e1631180639654.jpeg"><img class="alignnone size-medium wp-image-72" src="assets/img/IMG_4980-scaled-e1631180639654.jpeg" alt="" width="300" height="225" /></a> 
 
 - Yiyang Weng (DKU undergrad student, class of 2023)
+
 <a href="assets/img/IMG_1835-scaled-e1652176046680.jpeg"><img class="alignnone size-medium wp-image-72" src="assets/img/IMG_1835-scaled-e1652176046680.jpeg" alt="" width="300" height="225" /></a> 
 
 - Yunyi Ru (DKU undergrad student, class of 2023) 

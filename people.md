@@ -7,7 +7,7 @@ layout: page
 ## Principle investigator
 Yajuan Lin (Assistant Professor, Marine Ecology)
 
-![photo](./assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg =300x)
+<img src="assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg" alt="" width="300"/>
 
 <a href="assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg"><img class="alignnone size-medium wp-image-72" src="assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg" alt="" width="300" height="225" /></a>
 

@@ -10,9 +10,8 @@ Office@ Tidal Hall 231,
 6300 Ocean Dr.,
 Corpus Christi, TX 78412
 
-Email: yajuan.lin@tamucc.edu. 
-  
-  
+Email: yajuan.lin@tamucc.edu 
+<br/><br/>
 Ocean front campus at the heart of the Texas Gulf Coast
 
 <img src="https://www.tamucc.edu/images/page-defaults/masthead-default.jpg" />

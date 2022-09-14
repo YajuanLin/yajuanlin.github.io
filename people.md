@@ -12,15 +12,15 @@ layout: page
 
 ## Current lab members
 
-- Merlin Miao (DKU undergrad student, class of 2023)
+- Merlin Miao (DKU undergrad, class of 2023)
 
 <img src="https://sites.duke.edu/yajuanlin/files/2021/09/IMG_4980-scaled-e1631180639654.jpg" width="300" height="225"/> 
 
-- Yiyang Weng (DKU undergrad student, class of 2023)
+- Yiyang Weng (DKU undergrad, class of 2023)
 
 <img src="https://sites.duke.edu/yajuanlin/files/2022/05/IMG_1835-scaled-e1652176046680.jpg" width="300" height="225"/>  
 
-- Yunyi Ru (DKU undergrad student, class of 2023) 
+- Yunyi Ru (DKU undergrad, class of 2023) 
 
 
 ## Former lab members

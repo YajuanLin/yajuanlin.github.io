@@ -7,11 +7,11 @@ layout: page
 PhD student and lab tech positions available. If you are interested in joining our lab, contact the PI for opportunities. 
 
 Office@ Tidal Hall 231,
-6300 Ocean Dr.,
-Corpus Christi, TX 78412
+<br/>6300 Ocean Dr.,
+<br/>Corpus Christi, TX 78412
 
 Email: yajuan.lin@tamucc.edu 
-Tel: 361-8253657
+<br/>Tel: 361-8253657
 <br/><br/><br/><br/>
 Ocean front campus at the heart of the Texas Gulf Coast
 

@@ -4,7 +4,7 @@ permalink: "/contact/"
 layout: page
 ---
 
-PhD student and lab tech positions available. If you are interested in joining our lab, contact the PI for opportunities. 
+Funded PhD student and lab tech positions available. And we are also looking for motivated MS and undergraduate students. If you are interested in joining our lab, contact the PI for opportunities. 
 
 Office@ Tidal Hall 231,
 <br/>6300 Ocean Dr.,

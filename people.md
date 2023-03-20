@@ -29,7 +29,7 @@ layout: page
 
 - Lihan Huang <lihan95@stanford.edu> (Undergraduate researcher 2020-2022, now graduate student at Stanford)
 
-- Cutong Fang (Undergraduate researcher 2020-2022, now graduate student at UC Berkeley)
+- Cutong Fang <charity_fang@berkeley.edu> (Undergraduate researcher 2020-2022, now graduate student at UC Berkeley)
 
 - Xiuwen Li (Research Assistant 2021-2022)
 

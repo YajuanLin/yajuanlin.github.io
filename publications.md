@@ -9,7 +9,7 @@ layout: page
 
 - Lin, Y., Moreno, C., Marchetti., A, Ducklow, H., Schofield, O., Delage., E., Meredith, M., Li, Z, Eveillard, D., Shaffron, S., and Cassar, N. (2021) Decline in plankton diversity and carbon flux with reduced sea ice extent along the Western Antarctic Peninsula. Nature Communications, https://doi.org/10.1038/s41467-021-25235-w.
 
-- Landwehr, S., et al. (2021). Biogeochemistry and Physics of the Southern Ocean-Atmosphere System Explored With Data Science. in review. Earth System Dynamics, https://doi.org/10.5194/esd-2021-16
+- Landwehr, S., et al. (2021). Biogeochemistry and Physics of the Southern Ocean-Atmosphere System Explored With Data Science. Earth System Dynamics, https://doi.org/10.5194/esd-2021-16
 
 - Brown, M., Bowman, J., Lin, Y., Feehan, C., Cassar, N., Moreno, C., Marchetti, A., and Schofield, O. (2021) Low diversity of a key phytoplankton group along the West Antarctic Peninsula. Limnology and Oceanography, 66(6), 2470-2480.
 

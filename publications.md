@@ -3,6 +3,9 @@ title: "Publications"
 permalink: "/publications/"
 layout: page
 ---
+- Miao, J., Chen, T., Misir, M., and Lin, Y. Deep learning for predicting 16S rRNA copy number. (2022) Preprint in bioRxiv. https://doi.org/10.1101/2022.11.26.518038
+
+- Lombard, F., et al. Open science resources from the Tara Pacific expedition across coral reef and surface ocean ecosystems. (2022) In press in Scientific Data.
 
 - Lin, Y., Moreno, C., Marchetti., A, Ducklow, H., Schofield, O., Delage., E., Meredith, M., Li, Z, Eveillard, D., Shaffron, S., and Cassar, N. (2021) Decline in plankton diversity and carbon flux with reduced sea ice extent along the Western Antarctic Peninsula. Nature Communications, https://doi.org/10.1038/s41467-021-25235-w.
 

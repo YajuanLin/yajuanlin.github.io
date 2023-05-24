@@ -12,7 +12,7 @@ layout: page
 
 ## Current lab members
 
-- <a href=“Mahima.md“>Mahima Yogesh</a> (Graduate student in Marine Biology Program) <myogesh@islander.tamucc.edu>
+- <a href="Mahima.md">Mahima Yogesh</a> (Graduate student in Marine Biology Program) <myogesh@islander.tamucc.edu>
 
 <img src="MY_profile photo.png" width="300" height="225"/> 
 

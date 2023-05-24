@@ -14,7 +14,7 @@ layout: page
 
 - <a href="Mahima.md">Mahima Yogesh</a> (Graduate student, Marine Biology Program) <myogesh@islander.tamucc.edu>
 
-<img src="https://github.com/YajuanLin/yajuanlin.github.io/blob/master/MY_profile%20photo.png" width="300" height="225"/> 
+<img src="https://sites.duke.edu/yajuanlin/files/2023/05/MY_profile-photo.png" width="300" height="225"/> 
 
 - Merlin Miao (Undergrad researcher) <jiazheng.miao@dukekunshan.edu.cn>
 

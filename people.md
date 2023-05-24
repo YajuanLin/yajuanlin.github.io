@@ -12,15 +12,19 @@ layout: page
 
 ## Current lab members
 
-- Merlin Miao (DKU undergrad, class of 2023) <jiazheng.miao@dukekunshan.edu.cn>
+- Mahima Yogesh (Graduate student in Marine Biology Program) <myogesh@islander.tamucc.edu >
+
+<img src="MY_profile photo.png" width="300" height="225"/> 
+
+- Merlin Miao (Undergraduate researcher) <jiazheng.miao@dukekunshan.edu.cn>
 
 <img src="https://sites.duke.edu/yajuanlin/files/2021/09/IMG_4980-scaled-e1631180639654.jpg" width="300" height="225"/> 
 
-- Yiyang Weng (DKU undergrad, class of 2023) <yiyang.weng@dukekunshan.edu.cn>
+- Yiyang Weng (Undergraduate researcher) <yiyang.weng@dukekunshan.edu.cn>
 
 <img src="https://sites.duke.edu/yajuanlin/files/2022/05/IMG_1835-scaled-e1652176046680.jpg" width="300" height="225"/>  
 
-- Yunyi Ru (DKU undergrad, class of 2023) <yunyi.ru@dukekunshan.edu.cn>
+- Yunyi Ru (Undergraduate researcher) <yunyi.ru@dukekunshan.edu.cn>
 
 
 ## Former lab members

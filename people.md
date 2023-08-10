@@ -16,7 +16,7 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
 
-- <a href="https://github.com/YajuanLin/yajuanlin.github.io/blob/a45edfa00a8a780220c1c31ecde6b0a9dd6d9df3/Mahima.md">Dai Le</a> (co-advising Graduate Student, Computer Science Program) <dle13@islander.tamucc.edu>
+- <a href="https://github.com/YajuanLin/yajuanlin.github.io/blob/e8dbbfd0b058c7c709c80ba4a00497d2ee843a14/DaiLe.md">Dai Le</a> (co-advising Graduate Student, Computer Science Program) <dle13@islander.tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/LeDai profile photo.png" width="300" /> 
 

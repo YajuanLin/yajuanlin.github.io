@@ -6,7 +6,7 @@ layout: page
 
 ## Graduate student
 
-- Dai Le (Graduate Student in Computer Science Program) <myogesh@islander.tamucc.edu>
+- Dai Le (Graduate Student in Computer Science Program) <dle13@islander.tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/LeDai photo.png" width="300" /> 
 

@@ -26,6 +26,8 @@ layout: page
 
 - Yunyi Ru (Undergrad researcher) <yunyi.ru@dukekunshan.edu.cn>
 
+<img src="assets/img/Yunyi Ru_Lin Lab Photo.png" width="300" /> 
+
 
 ## Former lab members
 

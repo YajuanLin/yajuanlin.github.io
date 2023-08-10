@@ -14,11 +14,11 @@ layout: page
 
 - <a href="https://github.com/YajuanLin/yajuanlin.github.io/blob/a45edfa00a8a780220c1c31ecde6b0a9dd6d9df3/Mahima.md">Mahima Yogesh</a> (Graduate Student, Marine Biology Program) <myogesh@islander.tamucc.edu>
 
-<img src="https://sites.duke.edu/yajuanlin/files/2023/05/MY_profile-photo.png" width="300" height="225"/> 
+<img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
 
 - <a href="https://github.com/YajuanLin/yajuanlin.github.io/blob/a45edfa00a8a780220c1c31ecde6b0a9dd6d9df3/Mahima.md">Dai Le</a> (co-advising Graduate Student, Computer Science Program) <dle13@islander.tamucc.edu>
 
-<img src="https://sites.duke.edu/yajuanlin/files/2023/05/MY_profile-photo.png" width="300" height="225"/> 
+<img src="https://yajuanlin.github.io/assets/img/LeDai profile photo.png" width="300" /> 
 
 - Merlin Miao (Undergrad researcher) <jiazheng.miao@dukekunshan.edu.cn>
 

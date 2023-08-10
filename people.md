@@ -12,11 +12,11 @@ layout: page
 
 ## Current lab members
 
-- <a href="https://github.com/YajuanLin/yajuanlin.github.io/Mahima.md">Mahima Yogesh</a> (Graduate Student, Marine Biology Program) <myogesh@islander.tamucc.edu>
+- <a href="https://yajuanlin.github.io/Mahima/">Mahima Yogesh</a> (Graduate Student, Marine Biology Program) <myogesh@islander.tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
 
-- <a href="https://github.com/YajuanLin/yajuanlin.github.io/DaiLe.md">Dai Le</a> (co-advising Graduate Student, Computer Science Program) <dle13@islander.tamucc.edu>
+- <a href="https://yajuanlin.github.io/DaiLe/">Dai Le</a> (co-advising Graduate Student, Computer Science Program) <dle13@islander.tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/LeDai profile photo.png" width="300" /> 
 

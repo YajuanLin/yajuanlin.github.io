@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.html"}
   - {title: "People", file: "people.md"}
   - {title: "Publications", file: "publications.md"}
-  - {title: "CV", url: "/YLin_CV_Jan2023.pdf", title: CV}
+  - {title: "CV", url: "/YLin_CV_Aug2023.pdf", title: CV}
   - {title: "Join us", file: "contact.md"}
 
 # external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

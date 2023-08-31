@@ -20,19 +20,15 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/LeDai profile photo.png" width="300" /> 
 
-- Merlin Miao (Undergrad researcher) <jiazheng.miao@dukekunshan.edu.cn>
-
-<img src="https://sites.duke.edu/yajuanlin/files/2021/09/IMG_4980-scaled-e1631180639654.jpg" width="300" height="225"/> 
-
-- Yiyang Weng (Undergrad researcher) <yiyang.weng@dukekunshan.edu.cn>
-
-<img src="https://sites.duke.edu/yajuanlin/files/2022/05/IMG_1835-scaled-e1652176046680.jpg" width="300" height="225"/>  
-
-- Yunyi Ru (Undergrad researcher) <yunyi.ru@dukekunshan.edu.cn>
-
 
 
 ## Former lab members
+
+- Merlin Miao <jiazheng.miao@dukekunshan.edu.cn> (Undergrad researcher 2020 - 2023, now grad student at Harvard)
+
+- Yiyang Weng <yiyang.weng@duke.edu> (Undergrad researcher 2022 - 2023, now grad student at Duke)
+
+- Yunyi Ru <yru3@jh.edu> (Undergrad researcher 2022 - 2023, now grad student at Johns Hopkins)
 
 - Wendy Wen <xinyi.wen@duke.edu> (Undergrad researcher 2020-2022, now graduate student at Duke)
 

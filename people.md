@@ -24,7 +24,7 @@ layout: page
 
 ## Former lab members
 
-- Merlin Miao <jiazheng.miao@dukekunshan.edu.cn> (Undergrad researcher 2020 - 2023, now grad student at Harvard)
+- Merlin Miao <jiazheng_miao@hms.harvard.edu> (Undergrad researcher 2020 - 2023, now grad student at Harvard)
 
 - Yiyang Weng <yiyang.weng@duke.edu> (Undergrad researcher 2022 - 2023, now grad student at Duke)
 

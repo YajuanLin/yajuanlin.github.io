@@ -5,7 +5,7 @@ layout: page
 ---
 - Li, Z., Lin, Y., and Cassar, N. On the influence of phytoplankton size fractions on the carbon export ratio in the surface ocean. In review.
 
-- Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y., A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. Preprint in medRxiv. https://doi.org/10.1101/2023.10.16.23297104
+- Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. Preprint in medRxiv. https://doi.org/10.1101/2023.10.16.23297104
 
 - Miao, J., Chen, T., Misir, M., and Lin, Y. Deep learning for predicting 16S rRNA copy number. In review. Preprint in bioRxiv. https://doi.org/10.1101/2022.11.26.518038
   

@@ -16,7 +16,7 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
 
-- <a href="https://yajuanlin.github.io/DaiLe/">Dai Le</a> (co-advising MS Student, Computer Science Program) <dle13@islander.tamucc.edu>
+- <a href="https://yajuanlin.github.io/DaiLe/">Dai Le</a> (co-advising PhD Student with Dr. Wenlu Wang, Computer Science Program) <dle13@islander.tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/LeDai profile photo.png" width="300" /> 
 

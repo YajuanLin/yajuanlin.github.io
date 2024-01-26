@@ -24,9 +24,9 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/Shuai profile photo.png" width="300" /> 
 
-- Ethan McCormick <emccormick2@islander.tamucc.edu> (Undergrad researcher)
+- Ethan McCormick (Undergrad Researcher) <emccormick2@islander.tamucc.edu>
 
-- Austin Carey <acarey1@islander.tamucc.edu> (Undergrad researcher)
+- <a href="https://yajuanlin.github.io/AustinC/">Austin Carey</a> (Undergrad Researcher) <acarey1@islander.tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/Austin profile photo.png" width="300" /> 
 

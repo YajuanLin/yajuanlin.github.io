@@ -1,6 +1,6 @@
 ---
 title: "ShuaiG"
-permalink: "/Shuai/"
+permalink: "/ShuaiGu/"
 layout: page
 ---
 

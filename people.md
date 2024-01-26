@@ -20,6 +20,10 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/LeDai profile photo.png" width="300" /> 
 
+- Shuai Gu <shuai.gu@tamucc.edu> (Research Specialist)
+
+<img src="https://yajuanlin.github.io/assets/img/Shuai profile photo.png" width="300" /> 
+
 - Ethan McCormick <emccormick2@islander.tamucc.edu> (Undergrad researcher)
 
 - Austin Carey <acarey1@islander.tamucc.edu> (Undergrad researcher)

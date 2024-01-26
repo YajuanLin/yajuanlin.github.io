@@ -22,6 +22,10 @@ layout: page
 
 - Ethan McCormick <emccormick2@islander.tamucc.edu> (Undergrad researcher)
 
+- Austin Carey <acarey1@islander.tamucc.edu> (Undergrad researcher)
+
+<img src="https://yajuanlin.github.io/assets/img/Austin profile photo.png" width="300" /> 
+
 ## Former lab members
 
 - Merlin Miao <jiazheng_miao@hms.harvard.edu> (Undergrad researcher 2020 - 2023, now grad student at Harvard)

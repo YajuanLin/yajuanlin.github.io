@@ -20,7 +20,7 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/LeDai profile photo.png" width="300" /> 
 
-- Shuai Gu <shuai.gu@tamucc.edu> (Research Specialist)
+- <a href="https://yajuanlin.github.io/ShuaiGu/">Shuai Gu</a> (Research Specialist) <shuai.gu@tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/Shuai profile photo.png" width="300" /> 
 

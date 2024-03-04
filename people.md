@@ -18,7 +18,7 @@ layout: page
 
 - <a href="https://yajuanlin.github.io/McMillan/">Robinson McMillan</a> (PhD Student, Marine Biology Program) <rmcmillan1@islander.tamucc.edu>
 
-<img src="https://yajuanlin.github.io/assets/img/McMillan profile photo.png" width="300" /> 
+<img src="https://yajuanlin.github.io/assets/img/McMillan Photo.jpeg" width="300" /> 
 
 - <a href="https://yajuanlin.github.io/DaiLe/">Dai Le</a> (co-advising PhD Student, Computer Science Program) <dle13@islander.tamucc.edu>
 

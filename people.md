@@ -20,7 +20,7 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/McMillan photo.png" width="300" /> 
 
-- <a href="https://yajuanlin.github.io/DaiLe/">Dai Le</a> (co-advising PhD Student, Computer Science Program) <dle13@islander.tamucc.edu>
+- <a href="https://yajuanlin.github.io/DaiLe/">Dai Le</a> (Research Assistant, MS student in Computer Science Program) <dle13@islander.tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/LeDai profile photo.png" width="300" /> 
 

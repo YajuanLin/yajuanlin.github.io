@@ -3,7 +3,7 @@ title: "Publications"
 permalink: "/publications/"
 layout: page
 ---
-- Miao, J., Chen, T., Misir, M., and Lin, Y. Deep learning for predicting 16S rRNA copy number. In review. Preprint in bioRxiv. https://doi.org/10.1101/2022.11.26.518038
+- Miao, J., Chen, T., Misir, M., and Lin, Y. (2024) Deep learning for predicting 16S rRNA copy number. Scientific Reports (in press). Preprint in bioRxiv. https://doi.org/10.1101/2022.11.26.518038
   
 - Li, Z., Lin, Y., and Cassar, N. On the influence of phytoplankton size fractions on the carbon export ratio in the surface ocean. In review.
 

@@ -17,14 +17,14 @@ layout: page
 <img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
 
 - Zack Zhong (PhD student, Marine Biology Program, starting Fall 2024) <zzhong@islander.tamucc.edu>
+ 
+- <a href="https://yajuanlin.github.io/ShuaiGu/">Shuai Gu</a> (Research Specialist) <shuai.gu@tamucc.edu>
+
+<img src="https://yajuanlin.github.io/assets/img/Shuai profile photo.png" width="300" /> 
   
 - <a href="https://yajuanlin.github.io/DaiLe/">Dai Le</a> (Research Assistant, MS student in Computer Science Program) <dle13@islander.tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/LeDai profile photo.png" width="300" /> 
-
-- <a href="https://yajuanlin.github.io/ShuaiGu/">Shuai Gu</a> (Research Specialist) <shuai.gu@tamucc.edu>
-
-<img src="https://yajuanlin.github.io/assets/img/Shuai profile photo.png" width="300" /> 
 
 - Ethan McCormick (Undergrad Researcher) <emccormick2@islander.tamucc.edu>
 

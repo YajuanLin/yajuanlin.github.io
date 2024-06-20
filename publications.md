@@ -3,8 +3,8 @@ title: "Publications"
 permalink: "/publications/"
 layout: page
 ---
-- Miao, J., Chen, T., Misir, M., and Lin, Y. (2024) Deep learning for predicting 16S rRNA copy number. Scientific Reports (in press). Preprint in bioRxiv. https://doi.org/10.1101/2022.11.26.518038
-  
+- Miao, J., Chen, T., Misir, M., and Lin, Y. (2024) Deep learning for predicting 16S rRNA copy number. (2024) Scientific Reports. https://doi.org/10.1038/s41598-024-64658-5
+
 - Li, Z., Lin, Y., and Cassar, N. On the influence of phytoplankton size fractions on the carbon export ratio in the surface ocean. In review.
 
 - Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. In review. Preprint in medRxiv. https://doi.org/10.1101/2023.10.16.23297104

@@ -9,7 +9,7 @@ layout: page
 
 - Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. In review. Preprint in medRxiv. https://doi.org/10.1101/2023.10.16.23297104
   
-- Gu, S., Lin, Y., Berthelot, H., Tang, W., Robidart, J., Eren., A. M., Ducklow, H., and Cassar, N. Sedimentary diazotroph contribution to measurable N2 fixation in Antarctic waters. (2024) Communications Earth & Environment. In press.
+- Gu, S., Berthelot, H., Lin, Y., Tang, W., Robidart, J., Eren., A. M., Ducklow, H., and Cassar, N. Sedimentary diazotroph contribution to measurable N2 fixation in Antarctic waters. (2024) Communications Earth & Environment. In press.
 
 - Lombard, F., et al. Open science resources from the Tara Pacific expedition across coral reef and surface ocean ecosystems. (2023) Scientific Data, 10 (1), 324
 

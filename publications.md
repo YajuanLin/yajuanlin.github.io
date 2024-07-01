@@ -5,7 +5,7 @@ layout: page
 ---
 - Miao, J., Chen, T., Misir, M., and Lin, Y. Deep learning for predicting 16S rRNA copy number. (2024) Scientific Reports. https://doi.org/10.1038/s41598-024-64658-5
 
-- Li, Z., Lin, Y., and Cassar, N. On the influence of phytoplankton size fractions on the carbon export ratio in the surface ocean. In review.
+- Li, Z., Lin, Y., and Cassar, N. On the influence of phytoplankton size fractions on the carbon export ratio in the surface ocean. (2024) Ecological Modelling. In press.
 
 - Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. In review. Preprint in medRxiv. https://doi.org/10.1101/2023.10.16.23297104
   

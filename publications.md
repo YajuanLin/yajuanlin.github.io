@@ -5,13 +5,13 @@ layout: page
 ---
 - Miao, J., Chen, T., Misir, M., and Lin, Y. Deep learning for predicting 16S rRNA copy number. (2024) Scientific Reports. https://doi.org/10.1038/s41598-024-64658-5
 
-- Li, Z., Lin, Y., and Cassar, N. On the influence of phytoplankton size fractions on the carbon export ratio in the surface ocean. (2024) Ecological Modelling. In press.
+- Li, Z., Lin, Y., and Cassar, N. On the influence of phytoplankton size fractions on the carbon export ratio in the surface ocean. (2024) Ecological Modelling, 495, 110798.
 
 - Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. In review. Preprint in medRxiv. https://doi.org/10.1101/2023.10.16.23297104
   
 - Gu, S., Berthelot, H., Lin, Y., Tang, W., Robidart, J., Eren., A. M., Ducklow, H., and Cassar, N. Sedimentary diazotroph contribution to measurable N2 fixation in Antarctic waters. (2024) Communications Earth & Environment. In press.
 
-- Lombard, F., et al. Open science resources from the Tara Pacific expedition across coral reef and surface ocean ecosystems. (2023) Scientific Data, 10 (1), 324
+- Lombard, F., et al. Open science resources from the Tara Pacific expedition across coral reef and surface ocean ecosystems. (2023) Scientific Data, 10 (1), 324.
 
 - Lin, Y., Moreno, C., Marchetti., A, Ducklow, H., Schofield, O., Delage., E., Meredith, M., Li, Z, Eveillard, D., Shaffron, S., and Cassar, N. (2021) Decline in plankton diversity and carbon flux with reduced sea ice extent along the Western Antarctic Peninsula. Nature Communications, https://doi.org/10.1038/s41467-021-25235-w.
 

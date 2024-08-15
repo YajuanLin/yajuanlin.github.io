@@ -27,7 +27,7 @@ layout: page
 <img src="https://yajuanlin.github.io/assets/img/Austin profile photo.png" width="300" /> 
 
 ## Former lab members
-- Anne Christabel Martin (Summar Research Intern 2024)
+- Anne Christabel Martin (Summer Research Intern 2024)
 
 - Dai Le <dle13@islander.tamucc.edu> (Research Assistant 2023 - 2024, MS student in Computer Science Program)
 

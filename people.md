@@ -21,18 +21,17 @@ layout: page
 - <a href="https://yajuanlin.github.io/ShuaiGu/">Shuai Gu</a> (Research Specialist) <shuai.gu@tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/Shuai profile photo.png" width="300" /> 
-  
-- <a href="https://yajuanlin.github.io/DaiLe/">Dai Le</a> (Research Assistant, MS student in Computer Science Program) <dle13@islander.tamucc.edu>
-
-<img src="https://yajuanlin.github.io/assets/img/LeDai profile photo.png" width="300" /> 
-
-- Ethan McCormick (Undergrad Researcher) <emccormick2@islander.tamucc.edu>
 
 - <a href="https://yajuanlin.github.io/AustinC/">Austin Carey</a> (Undergrad Researcher) <acarey1@islander.tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/Austin profile photo.png" width="300" /> 
 
 ## Former lab members
+- Anne Christabel Martin (Summar Research Intern 2024)
+
+- Dai Le <dle13@islander.tamucc.edu> (Research Assistant 2023 - 2024, MS student in Computer Science Program)
+
+- Ethan McCormick <emccormick2@islander.tamucc.edu> (Undergrad Researcher 2023 - 2024)
 
 - Merlin Miao <jiazheng_miao@hms.harvard.edu> (Undergrad researcher 2020 - 2023, now grad student at Harvard)
 

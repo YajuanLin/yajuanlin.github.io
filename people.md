@@ -8,7 +8,7 @@ layout: page
 - Yajuan Lin (Assistant Professor, Marine Ecology) <yajuan.lin@tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg" width="300" height="225"/>
-(photo credit to TARA Ocean)
+(photo credit to TARA Oceans)
 
 ## Current lab members
 

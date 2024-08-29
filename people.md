@@ -16,7 +16,9 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
 
-- Zack Zhong (PhD student, Marine Biology Program, starting Fall 2024) <zzhong@islander.tamucc.edu>
+- Zack Zhong (PhD student, Marine Biology Program) <zzhong@islander.tamucc.edu>
+  
+<img src="https://yajuanlin.github.io/assets/img/ZackZhong.jpg" width="300" /> 
  
 - <a href="https://yajuanlin.github.io/ShuaiGu/">Shuai Gu</a> (Research Specialist) <shuai.gu@tamucc.edu>
 

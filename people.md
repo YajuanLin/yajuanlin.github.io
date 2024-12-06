@@ -31,7 +31,7 @@ layout: page
 - Madison Long (Undergrad Researcher) <mlong5@islander.tamucc.edu>
 
 ## Former lab members
-- Anne Christabel Martin (Summer Research Intern 2024)
+- Anne Christabel Martin (Research Intern 2024, now undergrad student at UT Austin)
 
 - Dai Le <dle13@islander.tamucc.edu> (Research Assistant 2023 - 2024, MS student in Computer Science Program)
 

@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## Principle investigator
-- Yajuan Lin (Assistant Professor, Marine Ecology) <yajuan.lin@tamucc.edu>
+- Yajuan Lin (Assistant Professor, Department of Life Sciences) <yajuan.lin@tamucc.edu>
 
 <img src="https://yajuanlin.github.io/assets/img/CREDITS-MAEVA-BARDY-YAJUAN-LIN-BD-1.jpeg" width="300" height="225"/> <br />
 (photo credit to TARA Oceans)
@@ -16,7 +16,7 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
 
-- Zhiwen (Zack) Zhong (PhD student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds an M.S. in Animal Production from Zhejiang University, China. Before joining TAMUCC, Zack worked as a front-end software engineer. He is interested in appling computer sciences approaches to tackle data-intensive biological problems, in particular applications to omic data. Outside of work, Zack enjoys skateboarding.
+- Zhiwen (Zack) Zhong (PhD student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds an M.S. in Animal Production from Zhejiang University, China. Before joining TAMUCC, Zack worked as a front-end software engineer. He is interested in appling computer science approaches to tackle data-intensive biological problems, in particular applications to omic data. Outside of work, Zack enjoys skateboarding.
   
 <img src="https://yajuanlin.github.io/assets/img/ZackZhong.jpg" width="300" /> 
  
@@ -24,7 +24,7 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/Shuai profile photo.png" width="300" /> 
 
-- Austin Carey (Undergrad Researcher) <acarey1@islander.tamucc.edu> <br /> I am a Senior undergraduate environmental science student in TAMUCC’s Honors Program with a concentration in Marine and Coastal Resources. My research interests include studying ocean and coral reef conservation, climate change, as well as a wide variety of environmental issues while in my undergraduate. I enjoy going to the beach, hanging out with my friends, and listening to music.
+- Austin Carey (Undergrad Researcher) <acarey1@islander.tamucc.edu> <br /> I am a Senior undergraduate environmental science student in TAMUCC’s Honors Program with a concentration in Marine and Coastal Resources. My research interests include studying ocean and coral reef conservation, climate change, as well as a wide variety of environmental issues. I enjoy going to the beach, hanging out with my friends, and listening to music.
 
 <img src="https://yajuanlin.github.io/assets/img/Austin profile photo.png" width="300" /> 
 

@@ -12,7 +12,7 @@ layout: page
 
 ## Current lab members
 
-- Mahima Yogesh</a> (MS Student, Marine Biology Program) <myogesh@islander.tamucc.edu> <br /> Mahima received B.S. in Bioenvironmental Sciences and minor in Oceanography from Texas A&M University. Mahima is currently leading a coastal time-series study at Horace Caldwell Pier to investigate the dynamics of plankton and microbiome in relationship to environmental variables. Mahima loves to sing, cook, and spend time in the outdoors. She hopes to one day work at NGO that focuses on the intersections of climate policy, ocean conservation, and climate justice.
+- Mahima Yogesh (MS Student, Marine Biology Program) <myogesh@islander.tamucc.edu> <br /> Mahima received B.S. in Bioenvironmental Sciences and minor in Oceanography from Texas A&M University. Mahima is currently leading a coastal time-series study at Horace Caldwell Pier to investigate the dynamics of plankton and microbiome in relationship to environmental variables. Mahima loves to sing, cook, and spend time in the outdoors. She hopes to one day work at NGO that focuses on the intersections of climate policy, ocean conservation, and climate justice.
 
 <img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
 
@@ -20,11 +20,11 @@ layout: page
   
 <img src="https://yajuanlin.github.io/assets/img/ZackZhong.jpg" width="300" /> 
  
-- Shuai Gu</a> (Research Specialist) <shuai.gu@tamucc.edu> <br /> Shuai Gu received his MS in Earth and Climate Sciences from Duke University before joining Lin lab as a research specialist. He has a research background in biogeochemistry, with a particular focus on nitrogen cycles. As a field-going oceanographer, Shuai has spent over 200 days at sea in different ocean regions. Most of Shuai’s spare time is spent playing and watching soccer. He also enjoys hiking, marathon running, and SCUBA diving.
+- Shuai Gu (Research Specialist) <shuai.gu@tamucc.edu> <br /> Shuai Gu received his MS in Earth and Climate Sciences from Duke University before joining Lin lab as a research specialist. He has a research background in biogeochemistry, with a particular focus on nitrogen cycles. As a field-going oceanographer, Shuai has spent over 200 days at sea in different ocean regions. Most of Shuai’s spare time is spent playing and watching soccer. He also enjoys hiking, marathon running, and SCUBA diving.
 
 <img src="https://yajuanlin.github.io/assets/img/Shuai profile photo.png" width="300" /> 
 
-- Austin Carey</a> (Undergrad Researcher) <acarey1@islander.tamucc.edu> <br /> I am a Senior undergraduate environmental science student in TAMUCC’s Honors Program with a concentration in Marine and Coastal Resources. My research interests include studying ocean and coral reef conservation, climate change, as well as a wide variety of environmental issues while in my undergraduate. I enjoy going to the beach, hanging out with my friends, and listening to music.
+- Austin Carey (Undergrad Researcher) <acarey1@islander.tamucc.edu> <br /> I am a Senior undergraduate environmental science student in TAMUCC’s Honors Program with a concentration in Marine and Coastal Resources. My research interests include studying ocean and coral reef conservation, climate change, as well as a wide variety of environmental issues while in my undergraduate. I enjoy going to the beach, hanging out with my friends, and listening to music.
 
 <img src="https://yajuanlin.github.io/assets/img/Austin profile photo.png" width="300" /> 
 

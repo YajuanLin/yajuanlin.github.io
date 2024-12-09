@@ -16,7 +16,7 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
 
-- Zhiwen (Zack) Zhong (PhD student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds an M.S. in Animal Production from Zhejiang University, China. Before joining TAMUCC, Zack worked as a front-end software engineer. He is interested in appling computer science approaches to tackle data-intensive biological problems, in particular applications on omic data. Outside of work, Zack enjoys skateboarding.
+- Zhiwen (Zack) Zhong (PhD student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds a M.S. in Animal Production from Zhejiang University, China. Before joining TAMUCC, Zack worked as a front-end software engineer. He is interested in appling computer science approaches to tackle data-intensive biological problems, in particular applications on omic data. Outside of work, Zack enjoys skateboarding.
   
 <img src="https://yajuanlin.github.io/assets/img/ZackZhong.jpg" width="300" /> 
  

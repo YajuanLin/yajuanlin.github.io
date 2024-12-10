@@ -3,13 +3,13 @@ title: "Publications"
 permalink: "/publications/"
 layout: page
 ---
-- Lemaitre, N., Faure, E., Zamora, R., Archer, C., Sieber M., Ellwood, M., Hassler, C., Lin, Y., Cassar N., Maignien, L., and Vance, D. Biological impacts on the nickel cycle in the Southern Ocean: insights from isotopes and metagenomics. (2024). In review.
+- Lemaitre, N., Faure, E., Zamora, R., Archer, C., Sieber M., Ellwood, M., Hassler, C., Lin, Y., Cassar N., Maignien, L., and Vance, D. Biological impacts on the nickel cycle in the Southern Ocean: insights from isotopes and metagenomics. In review.
   
 - Miao, J., Chen, T., Misir, M., and Lin, Y. Deep learning for predicting 16S rRNA copy number. (2024) Scientific Reports. https://doi.org/10.1038/s41598-024-64658-5
 
 - Li, Z., Lin, Y., and Cassar, N. On the influence of phytoplankton size fractions on the carbon export ratio in the surface ocean. (2024) Ecological Modelling, 495, 110798.
 
-- Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. In review. Preprint in medRxiv. https://doi.org/10.1101/2023.10.16.23297104
+- Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. In review. Preprint in <a href="https://doi.org/10.1101/2023.10.16.23297104">medRxiv</a>.
   
 - Gu, S., Berthelot, H., Lin, Y., Tang, W., Robidart, J., Eren., A. M., Ducklow, H., and Cassar, N. Sedimentary diazotroph contribution to measurable N2 fixation in Antarctic waters. (2024) Communications Earth & Environment. In press.
 

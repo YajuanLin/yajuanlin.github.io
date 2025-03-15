@@ -24,11 +24,15 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/Shuai profile photo.png" width="300" /> 
 
-- Austin Carey (Undergrad Researcher) <acarey1@islander.tamucc.edu> <br /> I am a Senior undergraduate environmental science student in TAMUCC’s Honors Program with a concentration in Marine and Coastal Resources. My research interests include studying ocean and coral reef conservation, climate change, as well as a wide variety of environmental issues. I enjoy going to the beach, hanging out with my friends, and listening to music.
+- Madison Long (Undergrad Researcher) <mlong5@islander.tamucc.edu> <br /> I am a senior biology undergraduate student with a concentration in organismal biology. I am interested in plant genomics and ecology, microbial ecology, and conservation. I have a passion for teaching the sciences and I currently work as a general chemistry TA. Most of my spare time is spent in the gym or running. I also enjoy reading novels and listening to music on vinyl.
+
+<img src="https://yajuanlin.github.io/assets/img/MadisonLong.png" width="300" /> 
+
+- Austin Carey (Undergrad Researcher) <acarey1@islander.tamucc.edu> <br /> I am a senior undergraduate environmental science student in TAMUCC’s Honors Program with a concentration in Marine and Coastal Resources. My research interests include studying ocean and coral reef conservation, climate change, as well as a wide variety of environmental issues. I enjoy going to the beach, hanging out with my friends, and listening to music.
 
 <img src="https://yajuanlin.github.io/assets/img/Austin profile photo.png" width="300" /> 
 
-- Madison Long (Undergrad Researcher) <mlong5@islander.tamucc.edu>
+
 
 ## Former lab members
 - Anne Christabel Martin (Research Intern 2024, now undergrad student at UT Austin)

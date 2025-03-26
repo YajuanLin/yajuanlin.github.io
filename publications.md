@@ -3,7 +3,7 @@ title: "Publications"
 permalink: "/publications/"
 layout: page
 ---
-<a href="https://scholar.google.com/citations?hl=en&user=wCTkXaAAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Link</a>
+<a href="https://scholar.google.com/citations?hl=en&user=wCTkXaAAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>
 
 - Faure, E., Pommellec, J., Noel, C., Cormier, A., Delpech, L., Eren, M., Fernandez, A., Vanni, C., Fourquez, M., Houssais, M., Silva, C., Gavory, F., Perdereau, A., Labadie, K., Wincker, P., Poulain, J., Hassler, C., Lin, Y., Cassar, N., Maignien, L. Water mass specific genes dominate the Southern Ocean microbiome. In review.
   

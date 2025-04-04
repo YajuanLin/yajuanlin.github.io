@@ -12,10 +12,6 @@ layout: page
 
 ## Current lab members
 
-- Mahima Yogesh (MS Student, Marine Biology Program) <myogesh@islander.tamucc.edu> <br /> Mahima received B.S. in Bioenvironmental Sciences and minor in Oceanography from Texas A&M University. Mahima is currently leading a coastal time-series study at Horace Caldwell Pier to investigate the dynamics of plankton and microbiome in relationship to environmental variables. Mahima loves to sing, cook, and spend time in the outdoors. She hopes to one day work at NGO that focuses on the intersections of climate policy, ocean conservation, and climate justice.
-
-<img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
-
 - Zhiwen (Zack) Zhong (PhD student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds a M.S. in Animal Production from Zhejiang University, China. Before joining TAMUCC, Zack worked as a front-end software engineer. He is interested in appling computer science approaches to tackle data-intensive biological problems, in particular applications on omic data. Outside of work, Zack enjoys skateboarding.
   
 <img src="https://yajuanlin.github.io/assets/img/ZackZhong.jpg" width="300" /> 
@@ -23,6 +19,10 @@ layout: page
 - Shuai Gu (Research Specialist) <shuai.gu@tamucc.edu> <br /> Shuai Gu received his MS in Earth and Climate Sciences from Duke University before joining Lin lab as a research specialist. He has a research background in biogeochemistry, with a particular focus on nitrogen cycles. As a field-going oceanographer, Shuai has spent over 200 days at sea in different ocean regions. Most of Shuai’s spare time is spent playing and watching soccer. He also enjoys hiking, marathon running, and SCUBA diving.
 
 <img src="https://yajuanlin.github.io/assets/img/Shuai profile photo.png" width="300" /> 
+
+- Mahima Yogesh (MS Student, Marine Biology Program) <myogesh@islander.tamucc.edu> <br /> Mahima received B.S. in Bioenvironmental Sciences and minor in Oceanography from Texas A&M University. Mahima is working on a coastal time-series study at Horace Caldwell Pier to investigate the dynamics of phytoplankton and microbiome in relationship to environmental variables. Mahima loves to sing, cook, and spend time in the outdoors. She hopes to one day work at NGO that focuses on the intersections of climate policy, ocean conservation, and climate justice.
+
+<img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
 
 - Madison Long (Undergrad Researcher) <mlong5@islander.tamucc.edu> <br /> I am a senior biology undergraduate student with a concentration in organismal biology. I am interested in plant genomics and ecology, microbial ecology, and conservation. I have a passion for teaching the sciences and I currently work as a general chemistry TA. Most of my spare time is spent in the gym or running. I also enjoy reading novels and listening to music on vinyl.
 

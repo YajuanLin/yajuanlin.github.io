@@ -8,14 +8,14 @@ layout: page
 - Faure, E., Pommellec, J., Noel, C., Cormier, A., Delpech, L., Eren, M., Fernandez, A., Vanni, C., Fourquez, M., Houssais, M., Silva, C., Gavory, F., Perdereau, A., Labadie, K., Wincker, P., Poulain, J., Hassler, C., Lin, Y., Cassar, N., Maignien, L. Water mass specific genes dominate the Southern Ocean microbiome. In review.
   
 - Lemaitre, N., Faure, E., Zamora, R., Archer, C., Sieber M., Ellwood, M., Hassler, C., Lin, Y., Cassar N., Maignien, L., and Vance, D. Biological impacts on the nickel cycle in the Southern Ocean: insights from isotopes and metagenomics. In review.
+
+- Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. In review. Preprint in <a href="https://doi.org/10.1101/2023.10.16.23297104">medRxiv</a>.
   
 - Gu, S., Berthelot, H., Lin, Y., Tang, W., Robidart, J., Eren., A. M., Ducklow, H., and Cassar, N. Evidence of limited N2 fixation in the Southern Ocean. (2025) Communications Earth & Environment, 6, 264.
   
 - Miao, J., Chen, T., Misir, M., and Lin, Y. Deep learning for predicting 16S rRNA copy number. (2024) Scientific Reports. https://doi.org/10.1038/s41598-024-64658-5
 
 - Li, Z., Lin, Y., and Cassar, N. On the influence of phytoplankton size fractions on the carbon export ratio in the surface ocean. (2024) Ecological Modelling, 495, 110798.
-
-- Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. In review. Preprint in <a href="https://doi.org/10.1101/2023.10.16.23297104">medRxiv</a>.
 
 - Lombard, F., et al. Open science resources from the Tara Pacific expedition across coral reef and surface ocean ecosystems. (2023) Scientific Data, 10 (1), 324.
 

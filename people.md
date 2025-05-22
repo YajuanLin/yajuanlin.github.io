@@ -28,6 +28,10 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/MadisonLong.png" width="300" /> 
 
+- Anne Christabel Martin (Undergrad Research Intern) <christabelm2000@gmail.com> <br /> Christabel is a neuroscience major at the University of Texas at Austin, pursuing the pre-med track. She is currently a summer research intern in our lab, working on cattle-associated microbiomes. With aspirations toward a career in cardiology or surgery, Christabel is eager to explore diverse research areas to understand how they can inform and enhance medical practice. Outside the lab, she enjoys rock climbing, exercising, and music.
+
+<img src="https://yajuanlin.github.io/assets/img/ChristabelMartin.png" width="300" /> 
+
 - Austin Carey (Undergrad Researcher) <acarey1@islander.tamucc.edu> <br /> I am a senior undergraduate environmental science student in TAMUCC’s Honors Program with a concentration in Marine and Coastal Resources. My research interests include studying ocean and coral reef conservation, climate change, as well as a wide variety of environmental issues. I enjoy going to the beach, hanging out with my friends, and listening to music.
 
 <img src="https://yajuanlin.github.io/assets/img/Austin profile photo.png" width="300" /> 
@@ -35,7 +39,6 @@ layout: page
 
 
 ## Former lab members
-- Anne Christabel Martin (Research Intern 2024, now undergrad student at UT Austin)
 
 - Dai Le <dle13@islander.tamucc.edu> (Research Assistant 2023 - 2024, MS student in Computer Science Program)
 

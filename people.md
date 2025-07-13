@@ -32,29 +32,26 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/ChristabelMartin.png" width="300" /> 
 
-- Austin Carey (Undergrad Researcher) <acarey1@islander.tamucc.edu> <br /> I am a senior undergraduate environmental science student in TAMUCC’s Honors Program with a concentration in Marine and Coastal Resources. My research interests include studying ocean and coral reef conservation, climate change, as well as a wide variety of environmental issues. I enjoy going to the beach, hanging out with my friends, and listening to music.
-
-<img src="https://yajuanlin.github.io/assets/img/Austin profile photo.png" width="300" /> 
-
-
 
 ## Former lab members
+
+- Austin Carey <acarey1@islander.tamucc.edu> (Undergrad Researcher 2024 - 2025) 
 
 - Dai Le <dle13@islander.tamucc.edu> (Research Assistant 2023 - 2024, MS student in Computer Science Program)
 
 - Ethan McCormick <emccormick2@islander.tamucc.edu> (Undergrad Researcher 2023 - 2024)
 
-- Merlin Miao <jiazheng_miao@hms.harvard.edu> (Undergrad researcher 2020 - 2023, now grad student at Harvard)
+- Merlin Miao <jiazheng_miao@hms.harvard.edu> (Undergrad researcher 2020 - 2023, now PhD student at Duke)
 
-- Yiyang Weng <yiyang.weng@duke.edu> (Undergrad researcher 2022 - 2023, now grad student at Duke)
+- Yiyang Weng <yiyang.weng@duke.edu> (Undergrad researcher 2022 - 2023, MS student at Duke)
 
-- Yunyi Ru <yru3@jh.edu> (Undergrad researcher 2022 - 2023, now grad student at Johns Hopkins)
+- Yunyi Ru <yru3@jh.edu> (Undergrad researcher 2022 - 2023, MS student at Johns Hopkins)
 
-- Wendy Wen <xinyi.wen@duke.edu> (Undergrad researcher 2020-2022, now graduate student at Duke)
+- Wendy Wen <xinyi.wen@duke.edu> (Undergrad researcher 2020-2022, MS from Duke, now S&P Global)
 
-- Lihan Huang <lihan95@stanford.edu> (Undergrad researcher 2020-2022, now graduate student at Stanford)
+- Lihan Huang <lihan95@stanford.edu> (Undergrad researcher 2020-2022, MS from Stanford)
 
-- Cutong Fang <charity_fang@berkeley.edu> (Undergrad researcher 2020-2022, now graduate student at UC Berkeley)
+- Cutong Fang <charity_fang@berkeley.edu> (Undergrad researcher 2020-2022, MS from UC Berkeley)
 
 - Xiuwen Li (Research Assistant 2021-2022)
 

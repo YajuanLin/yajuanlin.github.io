@@ -9,7 +9,7 @@ layout: page
   
 - Lemaitre, N., Faure, E., Zamora, R., Archer, C., Sieber M., Ellwood, M., Hassler, C., Lin, Y., Cassar N., Maignien, L., and Vance, D. Biological impacts on the nickel cycle in the Southern Ocean: insights from isotopes and metagenomics. In review.
 
-- Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. (2025) Frontiers in Microbiology. In press. Preprint in <a href="https://doi.org/10.1101/2023.10.16.23297104">medRxiv</a>.
+- Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. (2025) Frontiers in Microbiology. In press. <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1609070/abstract">doi: 10.3389/fmicb.2025.1609070</a>.
   
 - Gu, S., Berthelot, H., Lin, Y., Tang, W., Robidart, J., Eren., A. M., Ducklow, H., and Cassar, N. Evidence of limited N2 fixation in the Southern Ocean. (2025) Communications Earth & Environment, 6, 264.
   

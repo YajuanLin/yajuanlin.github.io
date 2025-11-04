@@ -5,11 +5,13 @@ layout: page
 ---
 <a href="https://scholar.google.com/citations?hl=en&user=wCTkXaAAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>
 
-- Faure, E., Pommellec, J., Noel, C., Cormier, A., Delpech, L., Eren, M., Fernandez, A., Vanni, C., Fourquez, M., Houssais, M., Silva, C., Gavory, F., Perdereau, A., Labadie, K., Wincker, P., Poulain, J., Hassler, C., Lin, Y., Cassar, N., Maignien, L. Water mass specific genes dominate the Southern Ocean microbiome. In review. <a href="https://www.researchsquare.com/article/rs-5608865/v1">doi: 10.21203/rs.3.rs-5608865</a>.
-  
-- Lemaitre, N., Faure, E., Zamora, R., Archer, C., Sieber M., Ellwood, M., Hassler, C., Lin, Y., Cassar N., Maignien, L., and Vance, D. Biological impacts on the nickel cycle in the Southern Ocean: insights from isotopes and metagenomics. In review.
+- Fiori, L., Orbach, D., Gu, S., Sanchez-Contreras, G., Walker, K., and Lin, Y. Sex, contraceptives, and social grouping effects on dolphin microbiota. Submitted. 
 
-- Ombres, E.H., H. Benway, K. Bisson, A.A. Larkin, E.A. Perotti, E. Wright-Fairbanks, J. Crosswell, S. Dutta, C. Garcia, A. Gnanadesikan, K. Grabb, A. Fay, R. Jin, K. Kelly, H. Kwasniewski, A.K. Labossiere, J. Lauderdale, J. Lee, Y. Lin, J.S. Long, A. Rufas, C. Schultz, N.D. Ward, and Y. Zhu. Tools in harmony: Integrating observations and models for improved understanding of a changing ocean. (2025) Oceanography 38(3), https://doi.org/10.5670/oceanog.2025.e302.
+- Faure, E., Pommellec, J., Noel, C., Cormier, A., Delpech, L., Eren, M., Fernandez, A., Vanni, C., Fourquez, M., Houssais, M., Silva, C., Gavory, F., Perdereau, A., Labadie, K., Wincker, P., Poulain, J., Hassler, C., Lin, Y., Cassar, N., Maignien, L. Water mass specific genes dominate the Southern Ocean microbiome. Submitted. <a href="https://www.researchsquare.com/article/rs-5608865/v1">doi: 10.21203/rs.3.rs-5608865</a>.
+  
+- Lemaitre, N., Faure, E., Zamora, R., Archer, C., Sieber M., Ellwood, M., Hassler, C., Lin, Y., Cassar N., Maignien, L., and Vance, D. Biological impacts on the nickel cycle in the Southern Ocean: insights from isotopes and metagenomics. Submitted.
+
+- Ombres, E.H., H. Benway, K. Bisson, A.A. Larkin, E.A. Perotti, E. Wright-Fairbanks, J. Crosswell, S. Dutta, C. Garcia, A. Gnanadesikan, K. Grabb, A. Fay, R. Jin, K. Kelly, H. Kwasniewski, A.K. Labossiere, J. Lauderdale, J. Lee, Y. Lin, J.S. Long, A. Rufas, C. Schultz, N.D. Ward, and Y. Zhu. Tools in harmony: Integrating observations and models for improved understanding of a changing ocean. (2025) Oceanography 38(3).
 
 - Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. (2025) Frontiers in Microbiology. In press. <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1609070/abstract">doi: 10.3389/fmicb.2025.1609070</a>.
   

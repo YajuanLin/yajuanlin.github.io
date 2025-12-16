@@ -16,13 +16,9 @@ layout: page
   
 <img src="https://yajuanlin.github.io/assets/img/ZackZhong.jpg" width="300" /> 
  
-- Shuai Gu (Research Specialist) <shuai.gu@tamucc.edu> <br /> Shuai Gu received his MS in Earth and Climate Sciences from Duke University before joining Lin lab as a research specialist. He has a research background in biogeochemistry, with a particular focus on nitrogen cycles. As a field-going oceanographer, Shuai has spent over 200 days at sea in different ocean regions. Most of Shuai’s spare time is spent playing and watching soccer. He also enjoys hiking, marathon running, and SCUBA diving.
+- Bryce Earls (MS student, Environmental Science program) <bearls1@islander.tamucc.edu> <br /> Bryce Earls received his B.S. in Environmental Science from TAMUCC and is now pursuing his M.S. in Environmental Science with a concentration in Coastal Systems. He has research experience working with coral skeletal growth, and he now works with the Lin Lab investigating the composition of manatee microbiomes. One of Bryce’s greatest passions is SCUBA diving, and he has spent over 500 hours diving at the Texas State Aquarium. When he’s not in the lab or underwater, Bryce enjoys hiking, keeping tarantulas, and spending time on the beach with his friends and his rescue dog, General.
 
-<img src="https://yajuanlin.github.io/assets/img/Shuai profile photo.png" width="300" /> 
-
-- Mahima Yogesh (MS Student, Marine Biology Program) <myogesh@islander.tamucc.edu> <br /> Mahima received B.S. in Bioenvironmental Sciences and minor in Oceanography from Texas A&M University. Mahima is working on a coastal time-series study at Horace Caldwell Pier to investigate the dynamics of phytoplankton and microbiome in relationship to environmental variables. Mahima loves to sing, cook, and spend time in the outdoors. She hopes to one day work at NGO that focuses on the intersections of climate policy, ocean conservation, and climate justice.
-
-<img src="https://yajuanlin.github.io/assets/img/Mahima_profile-photo.png" width="300" height="225"/> 
+<img src="https://yajuanlin.github.io/assets/img/Bryce Earls profile.png" width="300" /> 
 
 - Madison Long (Undergrad Researcher) <mlong5@islander.tamucc.edu> <br /> I am a senior biology undergraduate student with a concentration in organismal biology. I am interested in plant genomics and ecology, microbial ecology, and conservation. I have a passion for teaching the sciences and I currently work as a general chemistry TA. Most of my spare time is spent in the gym or running. I also enjoy reading novels and listening to music on vinyl.
 
@@ -35,6 +31,10 @@ layout: page
 
 ## Former lab members
 
+- Shuai Gu <shuai.gu@yahoo.com> (Research Specialist, 2023 - 2025) 
+
+- Mahima Yogesh <myogesh@islander.tamucc.edu> (MS student in Marine Biology Program, 2023 - 2025)
+  
 - Austin Carey <acarey1@islander.tamucc.edu> (Undergrad Researcher 2024 - 2025) 
 
 - Dai Le <dle13@islander.tamucc.edu> (Research Assistant 2023 - 2024, MS student in Computer Science Program)

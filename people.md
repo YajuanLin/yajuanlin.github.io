@@ -31,9 +31,9 @@ layout: page
 
 ## Former lab members
 
-- Shuai Gu <shuai.gu@yahoo.com> (Research Specialist, 2023 - 2025) 
+- Shuai Gu <shuai.gu@yahoo.com> (Research Specialist 2023 - 2025, now Research Specialist at Yale) 
 
-- Mahima Yogesh <myogesh@islander.tamucc.edu> (MS student in Marine Biology Program, 2023 - 2025)
+- Mahima Yogesh <myogesh@islander.tamucc.edu> (MS student in Marine Biology Program 2023 - 2025)
   
 - Austin Carey <acarey1@islander.tamucc.edu> (Undergrad Researcher 2024 - 2025) 
 
@@ -41,7 +41,7 @@ layout: page
 
 - Ethan McCormick <emccormick2@islander.tamucc.edu> (Undergrad Researcher 2023 - 2024)
 
-- Merlin Miao <jiazheng_miao@hms.harvard.edu> (Undergrad researcher 2020 - 2023, now PhD student at Duke)
+- Merlin Miao <jiazheng_miao@hms.harvard.edu> (Undergrad researcher 2020 - 2023, MS from Harvard, now PhD student at Duke)
 
 - Yiyang Weng <yiyang.weng@duke.edu> (Undergrad researcher 2022 - 2023, MS student at Duke)
 

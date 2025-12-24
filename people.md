@@ -12,7 +12,7 @@ layout: page
 
 ## Current lab members
 
-- Zhiwen (Zack) Zhong (PhD student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds a M.S. in Animal Production from Zhejiang University, China. His research interests focus on carbon and nitrogen cycling in the Gulf of Mexico. Outside of research, Zack enjoys skateboarding and snowboarding.
+- Zhiwen (Zack) Zhong (PhD student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds a B.S. from Ludong University and a M.S. in Animal Production from Zhejiang University, China. His research interests focus on carbon and nitrogen cycling in the Gulf of Mexico. Outside of research, Zack enjoys skateboarding and snowboarding.
   
 <img src="https://yajuanlin.github.io/assets/img/ZackZhong.jpg" width="300" /> 
  
@@ -20,11 +20,11 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/Bryce Earls profile.png" width="300" /> 
 
-- Madison Long (Undergrad Researcher) <mlong5@islander.tamucc.edu> <br /> I am a senior biology undergraduate student with a concentration in organismal biology. I am interested in plant genomics and ecology, microbial ecology, and conservation. I have a passion for teaching the sciences and I currently work as a general chemistry TA. Most of my spare time is spent in the gym or running. I also enjoy reading novels and listening to music on vinyl.
+- Madison Long (Undergrad Researcher, LSAMP scholar) <mlong5@islander.tamucc.edu> <br /> I am a senior biology undergraduate student with a concentration in organismal biology. I am interested in plant genomics and ecology, microbial ecology, and conservation. I have a passion for teaching the sciences and I currently work as a general chemistry TA. Most of my spare time is spent in the gym or running. I also enjoy reading novels and listening to music on vinyl.
 
 <img src="https://yajuanlin.github.io/assets/img/MadisonLong.png" width="300" /> 
 
-- Anne Christabel Martin (Undergrad Research Intern) <christabelm2000@gmail.com> <br /> Christabel is a neuroscience major at the University of Texas at Austin, pursuing the pre-med track. She is currently a summer research intern in our lab, working on cattle-associated microbiomes. With aspirations toward a career in cardiology or surgery, Christabel is eager to explore diverse research areas to understand how they can inform and enhance medical practice. Outside the lab, she enjoys rock climbing, exercising, and music.
+- Anne Christabel Martin (Undergrad Summer Research Intern) <christabelm2000@gmail.com> <br /> Christabel is a neuroscience major at the University of Texas at Austin, pursuing the pre-med track. She is currently a summer research intern in our lab, working on cattle-associated microbiomes. With aspirations toward a career in cardiology or surgery, Christabel is eager to explore diverse research areas to understand how they can inform and enhance medical practice. Outside the lab, she enjoys rock climbing, exercising, and music.
 
 <img src="https://yajuanlin.github.io/assets/img/ChristabelMartin.png" width="300" /> 
 

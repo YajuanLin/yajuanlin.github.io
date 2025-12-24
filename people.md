@@ -12,7 +12,7 @@ layout: page
 
 ## Current lab members
 
-- Zhiwen (Zack) Zhong (PhD student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds a B.S. from Ludong University and a M.S. in Animal Production from Zhejiang University, China. His research interests focus on carbon and nitrogen cycling in the Gulf of Mexico. Outside of research, Zack enjoys skateboarding and snowboarding.
+- Zhiwen (Zack) Zhong (PhD student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds a B.S. from Ludong University and a M.S. in Animal Production from Zhejiang University, China. His research interests focus on carbon and nitrogen cycling in the Gulf of Mexico, from coast to open ocean. Outside of research, Zack enjoys skateboarding and snowboarding.
   
 <img src="https://yajuanlin.github.io/assets/img/ZackZhong.jpg" width="300" /> 
  

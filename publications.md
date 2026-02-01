@@ -13,7 +13,7 @@ layout: page
 
 - Ombres, E.H., H. Benway, K. Bisson, A.A. Larkin, E.A. Perotti, E. Wright-Fairbanks, J. Crosswell, S. Dutta, C. Garcia, A. Gnanadesikan, K. Grabb, A. Fay, R. Jin, K. Kelly, H. Kwasniewski, A.K. Labossiere, J. Lauderdale, J. Lee, Y. Lin, J.S. Long, A. Rufas, C. Schultz, N.D. Ward, and Y. Zhu. Tools in harmony: Integrating observations and models for improved understanding of a changing ocean. (2025) Oceanography 38(3).
 
-- Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. (2025) Frontiers in Microbiology. In press. <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1609070/abstract">doi: 10.3389/fmicb.2025.1609070</a>.
+- Wen, X., Fang, C., Huang, L., Miao, J., and Lin, Y. A citizen science approach for mapping total microbial communities and waterborne pathogens in household drinking water in China. (2025) Frontiers in Microbiology. <a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2025.1609070/abstract">doi: 10.3389/fmicb.2025.1609070</a>.
   
 - Gu, S., Berthelot, H., Lin, Y., Tang, W., Robidart, J., Eren., A. M., Ducklow, H., and Cassar, N. Evidence of limited N2 fixation in the Southern Ocean. (2025) Communications Earth & Environment, 6, 264.
   

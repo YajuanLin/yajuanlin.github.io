@@ -6,10 +6,10 @@ layout: page
 <a href="https://scholar.google.com/citations?hl=en&user=wCTkXaAAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>
 
 - Fiori, L., Orbach, D., Gu, S., Sanchez-Contreras, G., Walker, K., and Lin, Y. Sex, contraceptives, and social grouping effects on dolphin microbiota. Submitted. 
-
-- Faure, E., Pommellec, J., Noel, C., Cormier, A., Delpech, L., Eren, M., Fernandez, A., Vanni, C., Fourquez, M., Houssais, M., Silva, C., Gavory, F., Perdereau, A., Labadie, K., Wincker, P., Poulain, J., Hassler, C., Lin, Y., Cassar, N., Maignien, L. Water mass specific genes dominate the Southern Ocean microbiome. Submitted. <a href="https://www.researchsquare.com/article/rs-5608865/v1">doi: 10.21203/rs.3.rs-5608865</a>.
   
 - Lemaitre, N., Faure, E., Zamora, R., Archer, C., Sieber M., Ellwood, M., Hassler, C., Lin, Y., Cassar N., Maignien, L., and Vance, D. Biological impacts on the nickel cycle in the Southern Ocean: insights from isotopes and metagenomics. Submitted.
+
+- Faure, E., Pommellec, J., Noel, C., Cormier, A., Delpech, L., Eren, M., Fernandez, A., Vanni, C., Fourquez, M., Houssais, M., Silva, C., Gavory, F., Perdereau, A., Labadie, K., Wincker, P., Poulain, J., Hassler, C., Lin, Y., Cassar, N., Maignien, L. Water mass specific genes dominate the Southern Ocean microbiome. (2026) Nature Communications, in press. Preprint <a href="https://www.researchsquare.com/article/rs-5608865/v1">doi: 10.21203/rs.3.rs-5608865</a>.
 
 - Ombres, E.H., H. Benway, K. Bisson, A.A. Larkin, E.A. Perotti, E. Wright-Fairbanks, J. Crosswell, S. Dutta, C. Garcia, A. Gnanadesikan, K. Grabb, A. Fay, R. Jin, K. Kelly, H. Kwasniewski, A.K. Labossiere, J. Lauderdale, J. Lee, Y. Lin, J.S. Long, A. Rufas, C. Schultz, N.D. Ward, and Y. Zhu. Tools in harmony: Integrating observations and models for improved understanding of a changing ocean. (2025) Oceanography 38(3).
 

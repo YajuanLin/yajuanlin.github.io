@@ -9,7 +9,7 @@ layout: page
   
 - Lemaitre, N., Faure, E., Zamora, R., Archer, C., Sieber M., Ellwood, M., Hassler, C., Lin, Y., Cassar N., Maignien, L., and Vance, D. Biological impacts on the nickel cycle in the Southern Ocean: insights from isotopes and metagenomics. Submitted.
 
-- Faure, E., Pommellec, J., Noel, C., Cormier, A., Delpech, L., Eren, M., Fernandez, A., Vanni, C., Fourquez, M., Houssais, M., Silva, C., Gavory, F., Perdereau, A., Labadie, K., Wincker, P., Poulain, J., Hassler, C., Lin, Y., Cassar, N., Maignien, L. Water mass specific genes dominate the Southern Ocean microbiome. (2026) Nature Communications, in press. Preprint <a href="https://www.researchsquare.com/article/rs-5608865/v1">doi: 10.21203/rs.3.rs-5608865</a>.
+- Faure, E., Pommellec, J., Noel, C., Cormier, A., Delpech, L., Eren, M., Fernandez, A., Vanni, C., Fourquez, M., Houssais, M., Silva, C., Gavory, F., Perdereau, A., Labadie, K., Wincker, P., Poulain, J., Hassler, C., Lin, Y., Cassar, N., Maignien, L. Water mass specific genes dominate the Southern Ocean microbiome. (2026) Nat Communications 17, 2025. https://doi.org/10.1038/s41467-026-69584-w.
 
 - Ombres, E.H., H. Benway, K. Bisson, A.A. Larkin, E.A. Perotti, E. Wright-Fairbanks, J. Crosswell, S. Dutta, C. Garcia, A. Gnanadesikan, K. Grabb, A. Fay, R. Jin, K. Kelly, H. Kwasniewski, A.K. Labossiere, J. Lauderdale, J. Lee, Y. Lin, J.S. Long, A. Rufas, C. Schultz, N.D. Ward, and Y. Zhu. Tools in harmony: Integrating observations and models for improved understanding of a changing ocean. (2025) Oceanography 38(3).
 

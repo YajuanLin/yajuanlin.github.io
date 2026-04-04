@@ -20,7 +20,7 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/Bryce Earls profile.png" width="300" /> 
 
-- Teresa Gonzalez (Undergrad Researcher, LSAMP scholar) <tgonzalez39@islander.tamucc.edu> 
+- Teresa Gonzalez (Undergrad Researcher, LSAMP scholar) <tgonzalez39@islander.tamucc.edu> <br /> Teresa earned her associates at Del Mar College and is now pursuing a bachelor of science in Biology at TAMUCC. Her main research interests include microbiology and genetics, especially regarding climate adaptations of marine populations. In her free time, she enjoys reading murder mystery novels and making sourdough.
 
 - Anne Christabel Martin (Undergrad Summer Research Intern) <christabelm2000@gmail.com> <br /> Christabel is a neuroscience major at the University of Texas at Austin, pursuing the pre-med track. She is currently a summer research intern in our lab, working on cattle-associated microbiomes. With aspirations toward a career in cardiology or surgery, Christabel is eager to explore diverse research areas to understand how they can inform and enhance medical practice. Outside the lab, she enjoys rock climbing, exercising, and music.
 
@@ -29,7 +29,7 @@ layout: page
 
 ## Former lab members
 
-- Madison Long <mlong5@islander.tamucc.edu> (Undergrad Researcher 2024 - 2025, LSAMP scholar)
+- Madison Long <mlong5@islander.tamucc.edu> (Undergrad Researcher & LSAMP scholar 2024 - 2025, now work at Texas Commission on Environmental Quality)
 
 - Shuai Gu <shuai.gu@yahoo.com> (Research Specialist 2023 - 2025, now Research Specialist at Yale) 
 

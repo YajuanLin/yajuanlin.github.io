@@ -31,7 +31,7 @@ layout: page
 
 ## Former lab members
 
-- Madison Long <mlong5@islander.tamucc.edu> (Undergrad Researcher & LSAMP scholar 2024 - 2025, now work at Texas Commission on Environmental Quality)
+- Madison Long <mlong5@islander.tamucc.edu> (Undergrad Researcher & LSAMP scholar 2024 - 2025, now Texas Commission on Environmental Quality)
 
 - Shuai Gu <shuai.gu@yahoo.com> (Research Specialist 2023 - 2025, now Research Specialist at Yale) 
 

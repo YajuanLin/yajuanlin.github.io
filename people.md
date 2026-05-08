@@ -12,11 +12,11 @@ layout: page
 
 ## Current lab members
 
-- Zhiwen (Zack) Zhong (PhD student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds a B.S. from Ludong University and a M.S. in Animal Production from Zhejiang University, China. His research interests focus on carbon and nitrogen cycling in the Gulf of Mexico, from coast to open ocean. Outside of research, Zack enjoys skateboarding and snowboarding.
+- Zhiwen (Zack) Zhong (MS student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds a B.S. from Ludong University and a M.S. in Animal Production from Zhejiang University, China. His research interests focus on carbon and nitrogen cycling in the Gulf of Mexico, from coast to open ocean. Outside of research, Zack enjoys skateboarding and snowboarding.
   
 <img src="https://yajuanlin.github.io/assets/img/ZackZhong.jpg" width="300" /> 
  
-- Bryce Earls (MS student, Environmental Science Program) <bearls1@islander.tamucc.edu> <br /> Bryce received his B.S. in Environmental Science from TAMUCC and is now pursuing his M.S. in Environmental Science with a concentration in Coastal Systems. He has research experience working with coral skeletal growth, and he now works with the Lin Lab investigating the composition of manatee microbiomes. One of Bryce’s greatest passions is SCUBA diving, and he has spent over 500 hours diving at the Texas State Aquarium. When he’s not in the lab or underwater, Bryce enjoys hiking, keeping tarantulas, and spending time on the beach with his friends and his rescue dog, General.
+- Bryce Earls (MS student, Environmental Science Program, co-advising with Dara Orbach) <bearls1@islander.tamucc.edu> <br /> Bryce received his B.S. in Environmental Science from TAMUCC and is now pursuing his M.S. in Environmental Science with a concentration in Coastal Systems. He has research experience working with coral skeletal growth, and he now works with the Lin Lab investigating the composition of manatee microbiomes. One of Bryce’s greatest passions is SCUBA diving, and he has spent over 500 hours diving at the Texas State Aquarium. When he’s not in the lab or underwater, Bryce enjoys hiking, keeping tarantulas, and spending time on the beach with his friends and his rescue dog, General.
 
 <img src="https://yajuanlin.github.io/assets/img/Bryce Earls profile.png" width="300" /> 
 

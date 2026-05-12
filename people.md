@@ -35,7 +35,7 @@ layout: page
 
 - Shuai Gu <shuai.gu@yahoo.com> (Research Specialist 2023 - 2025, now Research Specialist at Yale)
   
-- Anne Christabel Martin <christabelm2000@gmail.com> (Undergrad Summer Research Intern, 2024 - 2025, undergrad at UT Austin)
+- Anne Christabel Martin <christabelm2000@gmail.com> (Summer Research Intern, 2024 - 2025, undergrad at UT Austin)
 
 - Mahima Yogesh <myogesh@islander.tamucc.edu> (MS student in Marine Biology Program 2023 - 2025)
   

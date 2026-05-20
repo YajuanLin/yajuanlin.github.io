@@ -37,7 +37,7 @@ layout: page
   
 - Anne Christabel Martin <christabelm2000@gmail.com> (Summer Research Intern, 2024 - 2025, undergrad at UT Austin)
 
-- Mahima Yogesh <myogesh@islander.tamucc.edu> (MS student in Marine Biology Program 2023 - 2025)
+- Mahima Yogesh <myogesh@islander.tamucc.edu> (MS student in Marine Biology Program 2023 - 2025, NOAA Knauss Fellow)
   
 - Austin Carey <acarey1@islander.tamucc.edu> (Undergrad Researcher 2024 - 2025) 
 

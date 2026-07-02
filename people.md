@@ -12,9 +12,7 @@ layout: page
 
 ## Current lab members
  
-- Kaegan Sloan (PhD student, Marine Biology Program) <ksloan@islander.tamucc.edu> <br /> Kaegan earned a B.S. in Biology with a concentration in Microbiology from The University of Texas at Dallas. Before joining TAMUCC, he worked as a research technician in the Histopathology Core Lab at UT Southwestern. His research interests focus on understanding how environmental fluctuations shape marine microbial communities in both the water column and host-associated microbiomes. Outside of research, he enjoys environmental conservation, botany, and swimming.
-  
-<p><em>Photo coming soon.</em></p>
+- Kaegan Sloan (PhD student, Marine Biology Program) <ksloan@islander.tamucc.edu> <br /> Kaegan earned a B.S. in Biology with a concentration in Microbiology from The University of Texas at Dallas. Before joining TAMUCC, he worked as a research technician in the Histopathology Core Lab at UT Southwestern. His research interests focus on understanding how environmental fluctuations shape marine microbial communities in both the water column and host-associated microbiomes. Outside of research, he enjoys environmental conservation, botany, and swimming. <em>Photo coming soon.</em>
 
 - Bryce Earls (MS student, Environmental Science Program, co-advising with Dara Orbach) <bearls1@islander.tamucc.edu> <br /> Bryce received his B.S. in Environmental Science from TAMUCC and is now pursuing his M.S. in Environmental Science with a concentration in Coastal Systems. He has research experience working with coral skeletal growth, and he now works with the Lin Lab investigating the composition of manatee microbiomes. One of Bryce’s greatest passions is SCUBA diving, and he has spent over 500 hours diving at the Texas State Aquarium. When he’s not in the lab or underwater, Bryce enjoys hiking, keeping tarantulas, and spending time on the beach with his friends and his rescue dog, General.
 

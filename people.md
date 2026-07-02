@@ -22,7 +22,7 @@ layout: page
   
 <img src="https://yajuanlin.github.io/assets/img/ZackZhong.jpg" width="300" /> 
 
-- Teresa Gonzalez (Undergrad Researcher, LSAMP scholar) <tgonzalez39@islander.tamucc.edu> <br /> Teresa earned her associates at Del Mar College and is now pursuing a bachelor of science in Biology at TAMUCC. Her main research interests include microbiology and genetics, especially regarding climate adaptations of marine populations. In her free time, she enjoys reading murder mystery novels and making sourdough.
+- Teresa Gonzalez (Undergrad Researcher, LSAMP scholar) <tgonzalez39@islander.tamucc.edu> <br /> Teresa earned her associates at Del Mar College and is now pursuing a bachelor of science in Biology at TAMUCC. Her main research interests include microbiology and genetics, especially regarding climate adaptations of marine populations. Teresa has developed strong lab skills streaking plates and maintaining microbial cultures. In her free time, she enjoys reading murder mystery novels and making sourdough.
   
 <img src="https://yajuanlin.github.io/assets/img/TeresaGonzalez.png" width="300" /> 
 

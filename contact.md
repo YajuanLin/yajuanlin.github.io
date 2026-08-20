@@ -4,7 +4,8 @@ permalink: "/contact/"
 layout: page
 ---
 
-We are always looking for motivated students from undergrads to PhD. If you are interested in joining our lab, contact the PI for opportunities. 
+I am always looking for motivated researchers from undergrads, graduate students to postdocs. If you are interested in joining our lab, contact the PI for opportunities. 
+
 
 Office@ Tidal Hall 231,
 <br/>6300 Ocean Dr.,

@@ -7,7 +7,7 @@ layout: page
 
 - Fiori, L., Lin, Y., Gu, S., Sánchez-Contreras, G., Walker, K, and Orbach, D. Water chlorination and environmental factors affect dolphin skin microbiome diversity and composition. Submitted.
 
-- Fiori, L., Orbach, D., Gu, S., Sanchez-Contreras, G., Walker, K., and Lin, Y. Sex, contraceptives, and social grouping effects on dolphin microbiota. Submitted. 
+- Fiori, L., Orbach, D., Gu, S., Sanchez-Contreras, G., Walker, K., and Lin, Y. Sex, contraceptives, and social grouping effects on dolphin microbiota. (2026) Animal Microbiome. In press. 
   
 - Lemaitre, N., Faure, E., Zamora, R., Archer, C., Sieber M., Ellwood, M., Hassler, C., Lin, Y., Cassar N., Maignien, L., and Vance, D. Biological impacts on the nickel cycle in the Southern Ocean: insights from isotopes and metagenomics. (2026) Biogeosciences. In press.
 

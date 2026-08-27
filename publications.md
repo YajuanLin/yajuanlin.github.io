@@ -5,6 +5,8 @@ layout: page
 ---
 <a href="https://scholar.google.com/citations?hl=en&user=wCTkXaAAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar Profile</a>
 
+- Earls, B., Lin, Y., Fiori, L., Gu, S., Mignucci-Giannoni, A, Rivera-Pérez, C., and Orbach, D. Body-Site Specificity of Microbiomes in Rehabilitated Greater Caribbean Manatees (Trichechus manatus manatus). Submitted.
+
 - Fiori, L., Lin, Y., Gu, S., Sánchez-Contreras, G., Walker, K, and Orbach, D. Water chlorination and environmental factors affect dolphin skin microbiome diversity and composition. Submitted.
 
 - Fiori, L., Orbach, D., Gu, S., Sanchez-Contreras, G., Walker, K., and Lin, Y. Sex, contraceptives, and social grouping effects on dolphin microbiota. (2026) Animal Microbiome. In press. 

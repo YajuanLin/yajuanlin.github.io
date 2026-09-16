@@ -18,10 +18,6 @@ layout: page
 
 <img src="https://yajuanlin.github.io/assets/img/Bryce Earls profile.png" width="300" /> 
 
-- Zhiwen (Zack) Zhong (MS student, Marine Biology Program) <zzhong@islander.tamucc.edu> <br /> Zack holds a B.S. from Ludong University and a M.S. in Animal Production from Zhejiang University, China. His research interests focus on carbon and nitrogen cycling in the Gulf of Mexico, from coast to open ocean. Outside of research, Zack enjoys skateboarding and snowboarding.
-  
-<img src="https://yajuanlin.github.io/assets/img/ZackZhong.jpg" width="300" /> 
-
 - Teresa Gonzalez (Undergrad Researcher, LSAMP scholar) <tgonzalez39@islander.tamucc.edu> <br /> Teresa earned her associates at Del Mar College and is now pursuing a bachelor of science in Biology at TAMUCC. Her main research interests include microbiology and genetics, especially regarding climate adaptations of marine populations. Teresa is an expert on streaking plates and maintaining bacterial cultures. In her free time, she enjoys reading murder mystery novels and making sourdough.
   
 <img src="https://yajuanlin.github.io/assets/img/TeresaGonzalez.png" width="300" /> 

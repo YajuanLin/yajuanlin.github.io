@@ -7,9 +7,9 @@ layout: page
 
 - Earls, B., Lin, Y., Fiori, L., Gu, S., Mignucci-Giannoni, A, Rivera-Pérez, C., and Orbach, D. Body-Site Specificity of Microbiomes in Rehabilitated Greater Caribbean Manatees (Trichechus manatus manatus). Submitted.
 
-- Fiori, L., Lin, Y., Gu, S., Sánchez-Contreras, G., Walker, K, and Orbach, D. Water chlorination and environmental factors affect dolphin skin microbiome diversity and composition. Submitted.
+- Fiori, L., Lin, Y., Gu, S., Sánchez-Contreras, G., Walker, K, and Orbach, D. Water chlorination and environmental factors affect dolphin skin microbiome diversity and composition. (2026) Frontiers in Microbiology - Microbial Symbioses. In press.
 
-- Fiori, L., Orbach, D., Gu, S., Sanchez-Contreras, G., Walker, K., and Lin, Y. Sex, contraceptives, and social grouping effects on dolphin microbiota. (2026) Animal Microbiome. In press. 
+- Fiori, L., Orbach, D., Gu, S., Sanchez-Contreras, G., Walker, K., and Lin, Y. Sex, contraceptives, and social grouping effects on dolphin microbiota. (2026) Animal Microbiome. https://doi.org/10.1186/s42523-026-00628-8. 
   
 - Lemaitre, N., Faure, E., Zamora, R., Archer, C., Sieber M., Ellwood, M., Hassler, C., Lin, Y., Cassar N., Maignien, L., and Vance, D. Biological impacts on the nickel cycle in the Southern Ocean: insights from isotopes and metagenomics. (2026) Biogeosciences, 23 (15), 5571-5591.
 
